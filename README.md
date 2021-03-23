@@ -37,6 +37,7 @@ I am in love with golang, I have developed since the language was still prematur
 
 ### ⚙ - Design Patterns
 -  All design patterns
+-  Graphs algorithm
 
 ### ⚙ - Programming paradigm
 - Procedural
@@ -44,6 +45,7 @@ I am in love with golang, I have developed since the language was still prematur
 - Functional
 - Reactive
 - Procedural 
+
 ### ⚙ - Threads Syncs
 - Fan In
 - Fan Out To All
@@ -57,16 +59,22 @@ I am in love with golang, I have developed since the language was still prematur
 - Mutex
 - Sempahore
 
-## 📦  Database
+## 📦  Databases
+### ⚙ - Relational Database
    - Postgres
    - MariaDB/Mysql
+   - CockroachDB
+
+### ⚙ - Key/Value Database
    - Redis
    - ETCD
+
+### ⚙ - NoSQL Database
    - MongoDB
-   - Neo4j
-   - CockroachDB
    - ElasticSearch
    - ScyllaDB
+### ⚙ - Graph Database
+- Neo4j
 
 ## ⚓ Kubernetes
 ### ⚙ - Miscellaneous
