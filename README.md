@@ -178,6 +178,7 @@ I am in love with golang, I have developed since the language was still prematur
 ### ⚙ Stress test
 - K6
 - Locost
+- JMeter
 
 ## 🐳 🐋 Docker Project - Commit
 - Moby - Containerd
