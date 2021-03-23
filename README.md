@@ -2,10 +2,18 @@
 ## Hi there 👋
 
 ## 🧙 About Me 
-My name is igor I love developing new applications, modeling and doing the SRE part.
+My name is igor. 
+
+
+I love developing new applications, modeling and doing the SRE part.
 
 
 I am in love with golang, I have developed since the language was still premature!
+
+## 🎩 Proficiency
+
+- 🧬 My activities in the area that I feel most comfortable working with are multi-threads or distributed and parallel computing
+- ⛓ Automate everything when possible
 
 ## 🔭 Current Work
  I’m currently working at @O2B - Developer/Devops/SRE
@@ -29,6 +37,13 @@ I am in love with golang, I have developed since the language was still prematur
 
 ### ⚙ - Design Patterns
 -  All design patterns
+
+### ⚙ - Programming paradigm
+- Procedural
+- Object-oriented
+- Functional
+- Reactive
+- Procedural 
 ### ⚙ - Threads Syncs
 - Fan In
 - Fan Out To All
@@ -53,7 +68,7 @@ I am in love with golang, I have developed since the language was still prematur
    - ElasticSearch
    - ScyllaDB
 
-## 🎛 Kubernetes
+## ⚓ Kubernetes
 ### ⚙ - Miscellaneous
 - Rancher For UI
 - Octant For UI
@@ -87,7 +102,7 @@ I am in love with golang, I have developed since the language was still prematur
 - Cluster DR
 
 
-## 🎛 Kubernetes - Projects - Commit
+## ⚓ Kubernetes - Projects - Commit
 - ETCD
 - Control Plane
 
