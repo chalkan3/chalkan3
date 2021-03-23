@@ -28,6 +28,7 @@ I am in love with golang, I have developed since the language was still prematur
 - I like animals and their behavior
 - I like plants and talk to them haha
 - Go karting
+- Play Videogames
 
 ## 💭 Dreams
 - my dream is to go to antarctica
