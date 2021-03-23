@@ -17,6 +17,20 @@ I am in love with golang, I have developed since the language was still prematur
 
 ## 🔭 Current Work
  I’m currently working at @O2B - Developer/Devops/SRE
+ 
+
+## ⚽️ Hobbie
+
+- Read Japanese book(Mangá)
+- Read technical books
+- Mess with robotics
+- I like history very much
+- I like animals and their behavior
+- I like plants and talk to them haha
+- Go karting
+
+## 💭 Dreams
+- my dream is to go to antarctica
 
 ## 💻  Developer Stuffs
 ### ⚙ - Compiled
