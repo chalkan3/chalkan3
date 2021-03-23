@@ -7,15 +7,19 @@ My name is igor I love developing new applications, modeling and doing the SRE p
 
 I am in love with golang, I have developed since the language was still premature!
 
-🔭  I’m currently working at @O2B - Developer/Devops/SRE
+## 🔭 Current Work
+ I’m currently working at @O2B - Developer/Devops/SRE
 
 ## 💻  Developer Stuffs 
 - Golang developer ( 7 years ) 
 - C# with dotnet CORE 
-- C++ for core usages
+- C++ for core usages and robotics(Iots too)
 - Python scripting for infra and web-developer (django, flask)
 - Java 
 - Lua 
+- Swift
+- Javacript (and frameworks)
+- Shell Script
 
 ## 📚📏 Algorithms & Patterns
 
