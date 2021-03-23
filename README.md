@@ -238,9 +238,14 @@ I am in love with golang, I have developed since the language was still prematur
 - ⚙ Interpreter pattern
 
 ## 📜 Own Projects
-- Rgori
-- Streamer Stats
-- WeBuy 
+- [Rgori](http://rgori.com.br/)
+- Streamer Stats - Doing
+- WeBuy - Doing
+- [Gorotine Sample](https://github.com/chalkan3/GopherCompany)
+- [Custom execute pipelines with GO plugins](https://github.com/chalkan3/octopusgopher)
+- [Kong proxy plugin for ticketing](https://github.com/chalkan3/kong-ticket-plugin)
+
+
 
 💬 Ask me about Golang Stuffs
 
