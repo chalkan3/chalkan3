@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 ## About Me 
-🔭 I’m currently working on @O2B - Developer/Devops/SRE
+🔭 I’m currently working at @O2B - Developer/Devops/SRE
 
 ## 💻  Developer Stuffs 
 - Golang developer ( 7 years ) 
@@ -181,7 +181,13 @@
 - WeBuy 
 
 💬 Ask me about Golang Stuffs
+
+
 📫 How to reach me: ighyss@gmail.com | igor.rodrigues@o2b.com.br
+
+
 🫀 Golang and Open Source lover
+
+
 ⚡ Fun fact: Did you know that there are more planes in the sea than submarines in the sky ?
 
