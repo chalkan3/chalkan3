@@ -39,14 +39,14 @@ I am in love with golang, I have developed since the language was still prematur
 -  All design patterns
 -  Graphs algorithm
 
-### ⚙ - Programming paradigm
+### ⚙ - Programming Paradigm
 - Procedural
 - Object-oriented
 - Functional
 - Reactive
 - Procedural 
 
-### ⚙ - Threads Syncs
+### ⚙ - Threads Syncs I/O Algorithms
 - Fan In
 - Fan Out To All
 - Generator
