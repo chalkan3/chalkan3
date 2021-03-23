@@ -33,7 +33,7 @@ I am in love with golang, I have developed since the language was still prematur
 ## 💭 Dreams
 - My dream is to go to antarctica
 
-## 💻  Developer Stuffs
+## 💻  Developer Stuffs - Languages
 ### ⚙ - Compiled
 - Golang developer ( 7 years ) 
 - C# with dotnet CORE 
