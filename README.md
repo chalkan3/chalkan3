@@ -35,18 +35,18 @@ I am in love with golang, I have developed since the language was still prematur
 
 ## 📚📏 Algorithms & Patterns
 
-### ⚙ - Design Patterns
+### 📘 - Design Patterns
 -  All design patterns
 -  Graphs algorithm
 
-### ⚙ - Programming Paradigm
+### 📘 - Programming Paradigm
 - Procedural
 - Object-oriented
 - Functional
 - Reactive
 - Procedural 
 
-### ⚙ - Threads Syncs I/O Algorithms
+### 📘 - Threads Syncs I/O Algorithms
 - Fan In
 - Fan Out To All
 - Generator
@@ -60,24 +60,24 @@ I am in love with golang, I have developed since the language was still prematur
 - Sempahore
 
 ## 📦  Databases
-### ⚙ - Relational Database
+### 🗳 - Relational Database
    - Postgres
    - MariaDB/Mysql
    - CockroachDB
 
-### ⚙ - Key/Value Database
+### 🗳 - Key/Value Database
    - Redis
    - ETCD
 
-### ⚙ - NoSQL Database
+### 🗳 - NoSQL Database
    - MongoDB
    - ElasticSearch
    - ScyllaDB
-### ⚙ - Graph Database
+### 🗳 - Graph Database
 - Neo4j
 
 ## ⚓ Kubernetes
-### ⚙ - Miscellaneous
+###  🥏  - Miscellaneous
 - Rancher For UI
 - Octant For UI
 - Control Plane - How code work(golang)
@@ -90,21 +90,21 @@ I am in love with golang, I have developed since the language was still prematur
 - Kustomize
 - SideCar pattern
 
-### ⚙ Helm 
+### 🧭 Helm 
 - Create new charts
 - Mantain charts
-### ⚙ Disk
+### 🤿 Disk
 - Rook with ceph
 - PV & PVC
 
-### ⚙ Network with ingress
+### 🎣  Network with ingress
 - Nginx
 - Kong
 - HAProxy 
 - Traefik
 - Envoy
 
-### ⚙ Multi Cloud & Region cluster
+### ⚓ Multi Cloud & Region cluster
 - Clusterctl
 - CAPI/CAPA
 - Cluster DR
@@ -164,7 +164,7 @@ I am in love with golang, I have developed since the language was still prematur
 - K6
 - Locost
 
-## 🐋 Docker Project - Commit
+## 🐳 🐋 Docker Project - Commit
 - Moby - Containerd
 
 ## 📦 Cache DB
@@ -194,7 +194,7 @@ I am in love with golang, I have developed since the language was still prematur
 - NATS
 
 ## 🗺 Deployment Architeture
-### ⚙ Microservices
+### 🧩 Microservices
 - Event Sourcing/CQRS with(out) NATS/GRPC
 - DDD 
 - Raw Queue events
@@ -205,11 +205,11 @@ I am in love with golang, I have developed since the language was still prematur
 - Grpc intercptor/middwlare
     
 
-### ⚙ Monoliths
+### 🕋 Monoliths
 - Event Sourcing/CQRS
 - DDD
 
-### ⚙ - Miscellaneous 
+### 📝 - Miscellaneous 
 - ⚙ Layered pattern
 - ⚙ Client-server pattern
 - ⚙ Master-slave pattern
