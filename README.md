@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-## About Me 
+## 🧙 About Me 
 My name is igor I love developing new applications, modeling and doing the SRE part.
 
 
