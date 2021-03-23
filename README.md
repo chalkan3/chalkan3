@@ -164,7 +164,7 @@ I am in love with golang, I have developed since the language was still prematur
 
 ## 🗺 Deployment Architeture
 ### ⚙ Microservices
-- Event Sourcing/CQRS
+- Event Sourcing/CQRS with(out) NATS/GRPC
 - DDD 
 - Raw Queue events
 - Thread 
