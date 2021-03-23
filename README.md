@@ -2,7 +2,12 @@
 ## Hi there 👋
 
 ## About Me 
-🔭 I’m currently working at @O2B - Developer/Devops/SRE
+My name is igor I love developing new applications, modeling and doing the SRE part.
+
+
+I am in love with golang, I have developed since the language was still premature!
+
+🔭  I’m currently working at @O2B - Developer/Devops/SRE
 
 ## 💻  Developer Stuffs 
 - Golang developer ( 7 years ) 
@@ -52,26 +57,36 @@
 - kube-proxy - How code work (golang)
 - Velero
 - Kustomize
+- SideCar pattern
 
 ### ⚙ Helm 
 - Create new charts
 - Mantain charts
 ### ⚙ Disk
 - Rook with ceph
-- PV & PVC 
-- ⚙ Multi Cloud & Region cluster
-        - Clusterctl
-        - CAPI/CAPA
-        - Cluster DR
+- PV & PVC
+
+### ⚙ Network with ingress
+- Nginx
+- Kong
+- HAProxy 
+- Traefik
+- Envoy
+
+### ⚙ Multi Cloud & Region cluster
+- Clusterctl
+- CAPI/CAPA
+- Cluster DR
+
 
 ## 🎛 Kubernetes - Projects - Commit
 - ETCD
 - Control Plane
 
-## 📝 Kong - Projetcts
+## 🦍 Kong - Projetcts
 - Kong Ticketing Plugin - https://github.com/chalkan3/kong-ticket-plugin 
 
-## 📝 Devops - SRE
+## 🌐 Devops - SRE
 ### ⚙ - Miscellaneous & Monitoring tools
 - Ansible
 - Docker - Containerd and old
@@ -118,18 +133,18 @@
 - K6
 - Locost
 
-## 📝 Docker Project - Commit
+## 🐋 Docker Project - Commit
 - Moby - Containerd
 
-## 📝 Cache DB
+## 📦 Cache DB
 - Redis
 - MemCached
 
-## 📝 Finops
+## 📉 Finops
 - Reduce costs
 - Using terraform to generate costs of accounts
 
-## 📝 Front End
+## 🎈 Front End
 - CSS
 - HTLM
 - JS
@@ -137,17 +152,17 @@
 - ⚙ Angular - Medium
 - ⚙ Vue - Medium
 
-## 📝 Mobile
+## 📱 Mobile
 - ⚙ React Native
 - ⚙ Swift 
 
-## 📝 Queue's
+## 🧮 Queue's
 - RabbitMQ
 - Redis as queue
 - GRPC/RPC WITH NATS
 - NATS
 
-## 📝 Deployment Architeture
+## 🗺 Deployment Architeture
 ### ⚙ Microservices
 - Event Sourcing/CQRS
 - DDD 
@@ -175,7 +190,7 @@
 - ⚙ Blackboard pattern
 - ⚙ Interpreter pattern
 
-## 📝 Own Projects
+## 📜 Own Projects
 - Rgori
 - Streamer Stats
 - WeBuy 
