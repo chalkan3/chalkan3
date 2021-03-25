@@ -124,7 +124,7 @@ I am in love with golang, I have developed since the language was still prematur
 - CAPI/CAPA
 - Cluster DR
 
-### ⚓ Kubernetes Operator Creator
+### 📚 Kubernetes Operator Creator
  - KubeBuilder 
  - OperatorSDK
  - Use Golang core to interact with CAPI
