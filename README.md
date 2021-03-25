@@ -125,13 +125,20 @@ I am in love with golang, I have developed since the language was still prematur
 - Cluster DR
 
 ### 📚 Kubernetes Operator Creator
+ - Modeling Kuberentes API
  - KubeBuilder 
  - OperatorSDK
  - Use Golang core to interact with CAPI
  - CRDS creator
  - Operator extends
  - Api extends
- - 
+ - RPC and cluster events manager
+ - LifeCicle events manager
+ - Control plane manager 
+ - ETCD check
+ - Custom Healthchecks
+ - Custom Logics of API
+ - Auto Pilot Architeture
 ## ⚓ Kubernetes - Projects - Commit
 - ETCD
 - Control Plane
