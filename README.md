@@ -254,7 +254,7 @@ I am in love with golang, I have developed since the language was still prematur
 - ⚙ Interpreter pattern
 
 ## 📜 Own Projects
-- Catracalivre Operator - kubernetes operator and crds of catracalivre system
+- Catracalivre Operator - kubernetes operator and crds of catracalivre system - Private
 - [Rgori](http://rgori.com.br/)
 - Streamer Stats - Doing
 - WeBuy - Doing
