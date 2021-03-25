@@ -124,7 +124,14 @@ I am in love with golang, I have developed since the language was still prematur
 - CAPI/CAPA
 - Cluster DR
 
-
+### ⚓ Kubernetes Operator Creator
+ - KubeBuilder 
+ - OperatorSDK
+ - Use Golang core to interact with CAPI
+ - CRDS creator
+ - Operator extends
+ - Api extends
+ - 
 ## ⚓ Kubernetes - Projects - Commit
 - ETCD
 - Control Plane
@@ -238,6 +245,7 @@ I am in love with golang, I have developed since the language was still prematur
 - ⚙ Interpreter pattern
 
 ## 📜 Own Projects
+- Catracalivre Operator - kubernetes operator and crds of catracalivre system
 - [Rgori](http://rgori.com.br/)
 - Streamer Stats - Doing
 - WeBuy - Doing
