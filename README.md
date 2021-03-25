@@ -139,6 +139,8 @@ I am in love with golang, I have developed since the language was still prematur
  - Custom Healthchecks
  - Custom Logics of API
  - Auto Pilot Architeture
+ - Custom Kubectl plugin for Operator context 
+ 
 ## ⚓ Kubernetes - Projects - Commit
 - ETCD
 - Control Plane
