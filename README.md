@@ -258,7 +258,7 @@ I am in love with golang, I have developed since the language was still prematur
 - [Rgori](http://rgori.com.br/)
 - Streamer Stats - Doing
 - WeBuy - Doing
-- Gitlab multi pipelines manager with migration - Private
+- [Gitlab multi pipelines manager with migration](https://github.com/chalkan3/hydra-pipeline-migration)
 - [Gorotine Sample](https://github.com/chalkan3/GopherCompany)
 - [Custom execute pipelines(GITLAB) with GO plugins](https://github.com/chalkan3/octopusgopher)
 - [Kong proxy plugin for ticketing](https://github.com/chalkan3/kong-ticket-plugin)
