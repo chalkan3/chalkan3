@@ -268,7 +268,7 @@ I am in love with golang, I have developed since the language was still prematur
 💬 Ask me about Golang Stuffs
 
 
-📫 How to reach me: Mail(ighyss@gmail.com | ighyss@googlemail.com | igor.rodrigues@o2b.com.br) | [Linkedin Profile](https://www.linkedin.com/in/igor-guedes-rodrigues-088849146)
+📫 How to reach me: Mail(ighyss@gmail.com | ighyss@googlemail.com | igor.g.rodrigues@ibm.com) | [Linkedin Profile](https://www.linkedin.com/in/igor-guedes-rodrigues-088849146)
 
 
 🫀 Golang and Open Source lover
