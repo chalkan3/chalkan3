@@ -16,7 +16,7 @@ I am in love with golang, I have developed since the language was still prematur
 - ⛓ Automate everything when possible
 
 ## 🔭 Current Work
- I’m currently working at @O2B - Developer/Devops/SRE
+ I’m currently working at @IBM - Developer/Devops/SRE
  
 
 ## ⚽️ Hobbie
